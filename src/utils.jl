@@ -1,6 +1,6 @@
 using Distributions
 using LinearAlgebra
-using Images
+using Images: channelview, colorview
 using Random
 
 using Plots
